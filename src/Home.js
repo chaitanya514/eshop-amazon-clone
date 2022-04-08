@@ -8,7 +8,7 @@ const Home = () => {
         <img
           src="https://www.cloudways.com/blog/wp-content/uploads/What-is-Ecommerce.jpg"
           alt="What is Ecommerce"
-          class="home__img"
+          className="home__img"
         />
         <div className="home__row">
           <Product
